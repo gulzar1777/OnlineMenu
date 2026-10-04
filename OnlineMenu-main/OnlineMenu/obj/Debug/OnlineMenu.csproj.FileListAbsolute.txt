@@ -1,0 +1,10 @@
+C:\Users\ewez\Downloads\OnlineMenu-main\OnlineMenu-main\OnlineMenu\bin\Debug\OnlineMenu.exe.config
+C:\Users\ewez\Downloads\OnlineMenu-main\OnlineMenu-main\OnlineMenu\bin\Debug\OnlineMenu.exe
+C:\Users\ewez\Downloads\OnlineMenu-main\OnlineMenu-main\OnlineMenu\bin\Debug\OnlineMenu.pdb
+C:\Users\ewez\Downloads\OnlineMenu-main\OnlineMenu-main\OnlineMenu\obj\Debug\OnlineMenu.csproj.AssemblyReference.cache
+C:\Users\ewez\Downloads\OnlineMenu-main\OnlineMenu-main\OnlineMenu\obj\Debug\OnlineMenu.Form1.resources
+C:\Users\ewez\Downloads\OnlineMenu-main\OnlineMenu-main\OnlineMenu\obj\Debug\OnlineMenu.Properties.Resources.resources
+C:\Users\ewez\Downloads\OnlineMenu-main\OnlineMenu-main\OnlineMenu\obj\Debug\OnlineMenu.csproj.GenerateResource.cache
+C:\Users\ewez\Downloads\OnlineMenu-main\OnlineMenu-main\OnlineMenu\obj\Debug\OnlineMenu.csproj.CoreCompileInputs.cache
+C:\Users\ewez\Downloads\OnlineMenu-main\OnlineMenu-main\OnlineMenu\obj\Debug\OnlineMenu.exe
+C:\Users\ewez\Downloads\OnlineMenu-main\OnlineMenu-main\OnlineMenu\obj\Debug\OnlineMenu.pdb
